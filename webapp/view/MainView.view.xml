@@ -1,0 +1,7 @@
+<mvc:View controllerName="fioriapp.prueba.controller.MainView"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <Text text="Hola"></Text>
+    </Page>
+</mvc:View>
